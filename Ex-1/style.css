@@ -1,0 +1,411 @@
+.header{
+    background-image: url(../Ex-1/images/engineer.webp);
+    height: 866px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content{
+    text-align: center;
+    position: absolute;
+    margin-left: 22%;
+    margin-top: 32%;
+}
+.button-1{
+    background-color: yellow;
+    margin-top: 87px;
+}
+.button-2{
+    margin-left: 45px;
+    background-color: gray;
+}
+.head {
+    height: 50px;
+    padding: 10px;
+   
+}
+
+.head a {
+    text-decoration: none;
+    padding-right: 5px;
+    color:black;
+    
+}
+
+.head a i {
+    padding-right: 5px;
+    font-size: 20px;
+}
+
+.head i {
+    text-decoration: none;
+    padding-right: 10px;
+    font-size: 16px;
+    color: black;
+   
+
+}
+
+.head i span {
+    color: rgb(24, 21, 21);
+}
+
+#icon {
+    height: 50px;
+    padding: 10px;
+
+}
+
+#icon a {
+    text-decoration: none;
+    padding-right: 5px;
+    color:black;
+}
+
+#icon a i {
+    font-size: 16px;
+    color: black;
+}
+
+
+.text-box{
+    border: 1px solid black;
+    margin-left: 50px;
+    height: 97px;
+}
+.text-box img{
+    width: 100%;
+    height: 100%;
+}
+i.fa-sharp fa-solid fa-buildings{
+    float: left;
+    font-size: 40px;
+}
+.fonts{
+    border: 1px solid black;
+    text-align: center;
+    margin: -10px 0px 0px -23px;
+    height: 48px;
+    /* word-spacing: 13px; */
+    padding: 12px 0px 0px 0px;
+    background-color: aliceblue;
+}
+.spans{
+    border: 1px solid black;
+    text-align: center;
+    height: 48px;
+    margin: 1px 0px 0px -23px;
+    padding: 12px 0px 0px 0px;
+    word-spacing: 3px;
+    background-color: aliceblue;
+}
+.media-fonts{
+    border: 1px solid black;
+    text-align: center;
+    height: 48px;
+    margin-left: -21px;
+    margin-top: -10px;
+    word-spacing: 32px;
+    padding: 12px 0px 0px 19px;
+    background-color: aliceblue;
+}
+.top-button{
+    border: 1px solid black;
+    height: 49px;
+    margin-left: -21px;
+    padding: 8px 0px 0px 73px;
+    background-color: aliceblue;
+
+}
+.top-button button{
+    background-color: orangered
+}
+span{
+    color:orangered ;
+}
+.well-text h1{
+    text-align: center;
+    margin-top: 120px;
+    
+}
+.line{
+    background-color: orangered;
+    width: 150px;
+    height: 2px;
+    margin-left: 37%;
+    margin-top: 15px;
+}
+.content-2{
+    
+    text-align: center;
+    margin-top: 40px;
+    line-height: 25px;
+}
+.box{
+    position: relative;
+    line-height: 30px;
+}
+.box img{
+    margin-top: 80px;
+}
+.box-2 img{
+    margin-top: 80px;
+    height: 240px;
+}
+.box-2{
+    margin-left: 20px;
+    line-height: 30px;
+}
+.box h2 ::before{
+    position: absolute;
+    content: "";
+    width: 20px;
+    height: 10px;
+    background-color: blueviolet;
+    transform: rotate(90deg);
+    top: 10px;
+    left: 10px;
+
+}
+.icon{
+    margin-top: 50px;
+    margin-left: 50px;
+    line-height : 35px;
+}
+.icon-contents{
+    border: 1px solid orangered;
+    margin-top: 80px;
+}
+.feature-head{
+    background-color: gray;
+}
+.feature-box{
+    padding: 100px 0px 100px 0px;
+}
+.feature-box h2{
+    margin-left: 4%;
+    
+}
+.feature-box .line-2{
+    background-color: orangered;
+    width: 150px;
+    height: 2px;
+    margin-left: 7%;
+    margin-top: 12px;
+}
+.spans-2{
+    margin-left: 42%;
+    text-align: center;
+    word-spacing: 7px;
+}
+i{
+    color:aliceblue;
+}
+.house-images img{
+    width: 276px;
+    margin-top: 100px;
+}
+.choose-text h2{
+    margin-top: 80px;
+}
+.line-3{
+    background-color: orangered;
+    width: 150px;
+    height: 2px;
+    margin-left: 50px;
+}
+.choose-box{
+    line-height: 35px;
+}
+.choose-icon{
+    display: flex;
+    justify-content: space-around;
+}
+.numbers{
+    height: 30px;
+    width: 30px;
+    background-color: orangered;
+    text-align: center;
+    border-radius: 25px;
+}
+.right-text{
+    border: 1px solid black;
+    text-align: center;
+    line-height: 43px;
+}
+.triangle-box{
+    width: 21px;
+    height: 20px;
+    background-color: orangered;
+    margin-left: 238px;
+}
+.triangle-box i{
+    position: relative;
+    bottom: 12px;
+}
+.client-head h2{
+    margin-top: 160px;
+    text-align: center;
+}
+.line-4{
+    background-color: orangered;
+    width: 150px;
+    height: 2px;
+    margin-left: 43%;
+    margin-top: 12px;
+}
+.client-line{
+    text-align: center;
+    margin-top: 44px;
+}
+.content-3{
+    margin-top: 80px;
+}
+.stars{
+    margin-left: 130px;
+    margin-top: 25px;
+}
+.civil-engg img{
+    width: 154px;
+    margin-left: 131px;
+    margin-top: 26px;
+}
+.civil-engg span{
+    margin-left: 177px;
+}
+.civil-engg p{
+    margin-left: 160px;
+}
+.calculate{
+    background: orangered url(../images/cost-top-bg.jpg) top no-repeat;
+    padding: 0 70px;
+    padding-top: 55px;
+    padding-bottom: 50px;
+}
+.cost-detail {
+    background: #303f46;
+}
+.calculate h4{
+    font-weight: normal;
+    color: #fff;
+    margin-top: 13px;
+    font-size: 28px;
+    letter-spacing: 1px;
+}
+.calculate p{
+    color: #fff;
+    font-family: inherit;
+    font-weight: 400;
+    color: #6f6f6f;
+    line-height: 24px;
+    text-rendering: optimizeLegibility;
+}
+.calculate form li label {
+    width: 100%;
+    display: inline-block;
+    font-weight: normal;
+    color: #fff;
+    font-size: 15px;
+}
+.calculate form li
+ .form-control {
+    border-radius: 0px;
+    border: none;
+    height: 40px;
+    border-radius: 0px;
+    padding: 0 20px;
+    margin-top: 10px;
+ }
+ .cost-detail .calculate form li {
+    margin-top: 20px;
+    list-style: none;
+}
+.cost-detail .radio {
+    width: 10%;
+    padding: 0px;
+    margin: 0px;
+    display: inline-block;
+    padding-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+button.btn {
+    margin-top: 30px;
+}
+.btn {
+    border: none;
+    color: #fff;
+    display: inline-block;
+    padding: 13px 35px;
+    border-radius: 0px;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 14px;
+    background: #303f46;
+    letter-spacing: 1px;
+}
+.cost-image img{
+    width: 100%;
+}
+.blog-head h2{
+    text-align: center;
+    margin-top: 80px;
+
+}
+.line-5{
+    background-color: orangered;
+    width: 150px;
+    height: 2px;
+    margin-left: 43%;
+    margin-top: 12px;
+}
+.blog-head p{
+    text-align: center;
+    margin-top: 29px;
+}
+.blog-box{
+    margin-top: 60px;
+}
+.blog-box img{
+    width: 270px;
+    height: 243px;
+    text-align: center;
+}
+.button-3{
+    background-color: orangered;
+}
+.img-div{
+    width: 40px;
+    height: 56px;
+    text-align: center;
+    background-color: orangered;
+    position: relative;
+    left: 109px;
+    bottom: 33px;
+}
+.temp-img{
+    margin-top: 150px;
+}
+.contact{
+    margin-top: 120px;
+    background-color: gray;
+    height: 123px;
+    padding: 44px 0px 0px 0px;
+}
+.footer-icons{
+    margin-top: 36px;
+    word-spacing: 35px;
+}
+.footer{
+    background-color: black;
+    line-height: 27px;
+    padding: 100px 0px 0px 0px;
+}
+.copy-right{
+    background-color: grey;
+    text-align: center;
+    height: 30px;
+    padding: 4px 0px 0px 0px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
